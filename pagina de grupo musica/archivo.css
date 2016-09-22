@@ -1,4 +1,67 @@
 *{
-    margin: 0 px;
-    padding: 0 px;
+    margin: 0px;
+    padding: 0px;
+}
+#cabecera{
+  background-color: #FFFBB9;
+  border: 1px solid #999999;
+  padding: 20px;
+  text-align: center;
+}
+#navegacion{
+  background: #CCCCCC;
+  padding: 5PX 15PX;
+}
+#navegacion li{
+  display: inline-block;
+  list-style: none;
+  padding: 5px;
+  font: bold 14px verdana,sans-serif;
+}
+#info{
+  clear:both;
+  float:left;
+  text-align: right;
+  background: #FFFBBB;
+}
+#info li{
+  list-style: none;
+}
+#pie{
+  clear: both;
+  text-align: center;
+  padding:  20px;
+  border-top: 2px solid #CCCCCC;
+}
+#imagen{
+  width: 300px;
+  height: 300px;
+}
+#cuerpo{
+  text-align: center;
+  display: inline-block;
+  width: 45%;
+  float:left;;
+}
+#cuerpoDos{
+  text-align: center;
+  display: inline-block;
+  width: 45%;
+  float:right;
+}
+#cuerpoDos header{
+  background-color: #FFFccc;
+  border: 1px solid #CCCCCC;
+  padding: 20px;
+  text-align: center;
+}
+#cuerpoDos p{
+  text-align: justify;
+  color: blue;
+
+}
+#cuerDos footer{
+  text-decoration-color: currentColor;
+  padding:  20px;
+  border-top: 2px solid #CCCCCC;
 }
