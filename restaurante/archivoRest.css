@@ -1,0 +1,45 @@
+#cabecera{
+  height: 130px;
+  background-color: #08F2FA;
+  border-style:3px solid;
+  border-radius: 12px;
+
+}
+#cabecera h2{
+  padding-top: 10px;
+text-align: center;
+font-size: 4em ;
+
+}
+#imagen{
+  width: 100px;
+  height: 100px;
+  float: left;
+  padding-top: 10px;
+}
+#cuerpoIzquierda{
+    padding: 2px;
+ border-color:red;
+  width: 32%;
+  float:left;
+}
+#cuerpoDerecha{
+    padding: 2px;
+ border-color:red;
+  width: 32%;
+  float:left;
+}
+#cuerpoCenter{
+  padding: 2px;
+ border-color:red;
+  width: 32%;
+  float:left;
+}
+#pie{
+  clear: both;
+  height: 130px;
+  background-color: #08F2FA;
+  border-style:3px solid;
+  border-radius: 12px;
+
+}
